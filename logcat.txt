@@ -1,0 +1,306 @@
+07-13 05:18:08.688    4791-4791/com.cabatuan.lazytypeconversion D/dalvikvm﹕ Trying to load lib /data/data/com.cabatuan.lazytypeconversion/lib/libImageProcessing.so 0x2bde23e0
+07-13 05:18:08.688    4791-4791/com.cabatuan.lazytypeconversion D/dalvikvm﹕ Added shared lib /data/data/com.cabatuan.lazytypeconversion/lib/libImageProcessing.so 0x2bde23e0
+07-13 05:18:08.688    4791-4791/com.cabatuan.lazytypeconversion D/dalvikvm﹕ No JNI_OnLoad found in /data/data/com.cabatuan.lazytypeconversion/lib/libImageProcessing.so 0x2bde23e0, skipping init
+07-13 05:18:08.808    4791-4791/com.cabatuan.lazytypeconversion D/libEGL﹕ loaded /system/lib/egl/libGLES_android.so
+07-13 05:18:08.808    4791-4791/com.cabatuan.lazytypeconversion D/libEGL﹕ loaded /system/lib/egl/libEGL_adreno200.so
+07-13 05:18:08.808    4791-4791/com.cabatuan.lazytypeconversion D/libEGL﹕ loaded /system/lib/egl/libGLESv1_CM_adreno200.so
+07-13 05:18:08.828    4791-4791/com.cabatuan.lazytypeconversion D/libEGL﹕ loaded /system/lib/egl/libGLESv2_adreno200.so
+07-13 05:18:08.878    4791-4791/com.cabatuan.lazytypeconversion D/OpenGLRenderer﹕ Enabling debug mode 0
+07-13 05:18:09.058    4791-4791/com.cabatuan.lazytypeconversion D/dalvikvm﹕ GC_FOR_ALLOC freed 135K, 3% free 9091K/9351K, paused 20ms
+07-13 05:18:09.058    4791-4791/com.cabatuan.lazytypeconversion I/dalvikvm-heap﹕ Grow heap (frag case) to 9.301MB for 405520-byte allocation
+07-13 05:18:09.078    4791-4791/com.cabatuan.lazytypeconversion D/dalvikvm﹕ GC_FOR_ALLOC freed 1K, 4% free 9486K/9799K, paused 18ms
+07-13 05:18:09.318    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: NaN fps after 0 frames.
+07-13 05:18:09.338    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 16.78 ms.
+07-13 05:18:09.408    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: NaN fps after 0 frames.
+07-13 05:18:09.418    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:09.458    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: NaN fps after 0 frames.
+07-13 05:18:09.468    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:09.478    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 38.504486083984375 fps.
+07-13 05:18:09.488    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:09.518    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 34.02749252319336 fps.
+07-13 05:18:09.528    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:09.568    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.88191032409668 fps.
+07-13 05:18:09.588    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 12.58 ms.
+07-13 05:18:09.628    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 17.83771324157715 fps.
+07-13 05:18:09.638    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:09.698    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 14.74056625366211 fps.
+07-13 05:18:09.698    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:09.788    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 11.272050857543945 fps.
+07-13 05:18:09.788    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:09.898    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.616381645202637 fps.
+07-13 05:18:09.918    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 16.78 ms.
+07-13 05:18:09.918    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Average time for Lazy type conversion: 9.86 ms after 10 frames
+07-13 05:18:10.018    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.327296257019043 fps.
+07-13 05:18:10.038    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 12.58 ms.
+07-13 05:18:10.138    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.393486976623535 fps.
+07-13 05:18:10.158    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 14.68 ms.
+07-13 05:18:10.258    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.365540504455566 fps.
+07-13 05:18:10.258    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: 16.69669246673584 fps after 10 frames.
+07-13 05:18:10.278    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 12.58 ms.
+07-13 05:18:10.378    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.333680152893066 fps.
+07-13 05:18:10.398    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 16.78 ms.
+07-13 05:18:10.498    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.258047103881836 fps.
+07-13 05:18:10.518    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 12.58 ms.
+07-13 05:18:10.618    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.301993370056152 fps.
+07-13 05:18:10.638    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 16.78 ms.
+07-13 05:18:10.748    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.10090446472168 fps.
+07-13 05:18:10.758    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 12.58 ms.
+07-13 05:18:10.858    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.544452667236328 fps.
+07-13 05:18:10.878    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 14.68 ms.
+07-13 05:18:10.978    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.333680152893066 fps.
+07-13 05:18:10.998    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 14.68 ms.
+07-13 05:18:11.098    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.237299919128418 fps.
+07-13 05:18:11.118    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 16.78 ms.
+07-13 05:18:11.118    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Average time for Lazy type conversion: 12.16 ms after 20 frames
+07-13 05:18:11.228    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.342162132263184 fps.
+07-13 05:18:11.238    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 14.68 ms.
+07-13 05:18:11.348    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.05107593536377 fps.
+07-13 05:18:11.378    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 20.97 ms.
+07-13 05:18:11.458    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 9.130168914794922 fps.
+07-13 05:18:11.458    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: 12.53001947402954 fps after 20 frames.
+07-13 05:18:11.468    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 12.58 ms.
+07-13 05:18:11.578    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.430139541625977 fps.
+07-13 05:18:11.598    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 18.87 ms.
+07-13 05:18:11.708    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 7.911141872406006 fps.
+07-13 05:18:11.718    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 12.58 ms.
+07-13 05:18:11.818    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.367711067199707 fps.
+07-13 05:18:11.838    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 16.78 ms.
+07-13 05:18:11.938    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.346409797668457 fps.
+07-13 05:18:11.948    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:12.068    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.104909896850586 fps.
+07-13 05:18:12.078    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 14.68 ms.
+07-13 05:18:12.188    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.325146675109863 fps.
+07-13 05:18:12.198    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 14.68 ms.
+07-13 05:18:12.298    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.423677444458008 fps.
+07-13 05:18:12.318    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 14.68 ms.
+07-13 05:18:12.318    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Average time for Lazy type conversion: 13.07 ms after 30 frames
+07-13 05:18:12.418    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.316768646240234 fps.
+07-13 05:18:12.438    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 14.68 ms.
+07-13 05:18:12.548    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 7.831712245941162 fps.
+07-13 05:18:12.558    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:12.668    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.691797256469727 fps.
+07-13 05:18:12.668    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: 11.111660130818684 fps after 30 frames.
+07-13 05:18:12.678    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 12.58 ms.
+07-13 05:18:12.778    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.557833671569824 fps.
+07-13 05:18:12.798    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 14.68 ms.
+07-13 05:18:12.898    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.36561107635498 fps.
+07-13 05:18:12.918    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 16.78 ms.
+07-13 05:18:13.028    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.126976013183594 fps.
+07-13 05:18:13.038    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 14.68 ms.
+07-13 05:18:13.158    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 7.801894187927246 fps.
+07-13 05:18:13.158    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:13.268    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.782638549804688 fps.
+07-13 05:18:13.278    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:13.388    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.274721145629883 fps.
+07-13 05:18:13.398    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:13.518    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 7.7926530838012695 fps.
+07-13 05:18:13.528    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:13.528    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Average time for Lazy type conversion: 12.74 ms after 40 frames
+07-13 05:18:13.638    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.331527709960938 fps.
+07-13 05:18:13.638    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:13.758    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 7.974736213684082 fps.
+07-13 05:18:13.768    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:13.868    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.9972562789917 fps.
+07-13 05:18:13.878    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: 10.408891296386718 fps after 40 frames.
+07-13 05:18:13.878    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:13.988    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.323068618774414 fps.
+07-13 05:18:13.998    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:14.118    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.100839614868164 fps.
+07-13 05:18:14.118    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:14.248    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 7.844860076904297 fps.
+07-13 05:18:14.258    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:14.318    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 13.490361213684082 fps.
+07-13 05:18:14.328    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:14.398    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 12.578932762145996 fps.
+07-13 05:18:14.408    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:14.458    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.778242111206055 fps.
+07-13 05:18:14.468    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:14.518    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.574676513671875 fps.
+07-13 05:18:14.528    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:14.528    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Average time for Lazy type conversion: 11.66 ms after 50 frames
+07-13 05:18:14.578    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.71821403503418 fps.
+07-13 05:18:14.588    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:14.638    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.181753158569336 fps.
+07-13 05:18:14.648    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:14.698    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.400432586669922 fps.
+07-13 05:18:14.698    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: 10.98694065093994 fps after 50 frames.
+07-13 05:18:14.708    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:14.758    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 17.228309631347656 fps.
+07-13 05:18:14.768    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:14.818    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 15.776603698730469 fps.
+07-13 05:18:14.828    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:14.878    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 17.51344108581543 fps.
+07-13 05:18:14.888    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:14.938    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 15.814777374267578 fps.
+07-13 05:18:14.948    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:15.008    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 15.219773292541504 fps.
+07-13 05:18:15.018    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:15.058    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 18.973892211914063 fps.
+07-13 05:18:15.068    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:15.128    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 15.219541549682617 fps.
+07-13 05:18:15.138    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:15.138    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Average time for Lazy type conversion: 11.18 ms after 60 frames
+07-13 05:18:15.178    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 18.502756118774414 fps.
+07-13 05:18:15.188    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:15.238    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.81265640258789 fps.
+07-13 05:18:15.248    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:15.298    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.625102996826172 fps.
+07-13 05:18:15.298    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: 11.950564781824747 fps after 60 frames.
+07-13 05:18:15.308    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:15.368    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 14.80034351348877 fps.
+07-13 05:18:15.378    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 14.68 ms.
+07-13 05:18:15.418    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 18.853694915771484 fps.
+07-13 05:18:15.428    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:15.479    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.327064514160156 fps.
+07-13 05:18:15.488    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:15.538    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.35938262939453 fps.
+07-13 05:18:15.548    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:15.599    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 17.00448989868164 fps.
+07-13 05:18:15.608    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:15.659    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.6168155670166 fps.
+07-13 05:18:15.668    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:15.728    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 14.11193561553955 fps.
+07-13 05:18:15.738    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:15.738    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Average time for Lazy type conversion: 10.76 ms after 70 frames
+07-13 05:18:15.778    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 19.823177337646484 fps.
+07-13 05:18:15.788    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:15.840    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 17.147069931030273 fps.
+07-13 05:18:15.848    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:15.900    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.64198112487793 fps.
+07-13 05:18:15.900    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: 12.638854885101319 fps after 70 frames.
+07-13 05:18:15.918    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 16.78 ms.
+07-13 05:18:15.968    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 15.515181541442871 fps.
+07-13 05:18:15.968    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:16.028    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 17.291763305664063 fps.
+07-13 05:18:16.028    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:16.088    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.87336540222168 fps.
+07-13 05:18:16.088    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:16.141    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.87336540222168 fps.
+07-13 05:18:16.148    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:16.201    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.574676513671875 fps.
+07-13 05:18:16.208    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:16.261    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.524282455444336 fps.
+07-13 05:18:16.278    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:16.321    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.667499542236328 fps.
+07-13 05:18:16.338    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:16.338    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Average time for Lazy type conversion: 10.59 ms after 80 frames
+07-13 05:18:16.388    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.24589729309082 fps.
+07-13 05:18:16.398    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:16.441    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 17.183015823364258 fps.
+07-13 05:18:16.458    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:16.508    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 14.75361442565918 fps.
+07-13 05:18:16.508    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: 13.115281295776366 fps after 80 frames.
+07-13 05:18:16.528    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 18.87 ms.
+07-13 05:18:16.568    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 18.60776710510254 fps.
+07-13 05:18:16.568    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 4.19 ms.
+07-13 05:18:16.628    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.608261108398438 fps.
+07-13 05:18:16.628    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:16.688    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.658891677856445 fps.
+07-13 05:18:16.688    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:16.748    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.44141960144043 fps.
+07-13 05:18:16.758    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 12.58 ms.
+07-13 05:18:16.808    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.48288345336914 fps.
+07-13 05:18:16.818    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:16.868    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.433313369750977 fps.
+07-13 05:18:16.878    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:16.928    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.9520263671875 fps.
+07-13 05:18:16.938    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:16.938    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Average time for Lazy type conversion: 10.46 ms after 90 frames
+07-13 05:18:16.988    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.650293350219727 fps.
+07-13 05:18:16.998    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:17.048    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.17363929748535 fps.
+07-13 05:18:17.068    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 16.78 ms.
+07-13 05:18:17.108    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.433313369750977 fps.
+07-13 05:18:17.108    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: 13.518492359585233 fps after 90 frames.
+07-13 05:18:17.118    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:17.168    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 17.383747100830078 fps.
+07-13 05:18:17.178    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:17.228    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 15.276504516601563 fps.
+07-13 05:18:17.248    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 12.58 ms.
+07-13 05:18:17.288    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 18.295917510986328 fps.
+07-13 05:18:17.288    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:17.348    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.557662963867188 fps.
+07-13 05:18:17.358    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:17.408    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.58319854736328 fps.
+07-13 05:18:17.418    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:17.468    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.278162002563477 fps.
+07-13 05:18:17.478    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:17.528    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.847211837768555 fps.
+07-13 05:18:17.538    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:17.538    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Average time for Lazy type conversion: 10.32 ms after 100 frames
+07-13 05:18:17.588    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.76108741760254 fps.
+07-13 05:18:17.598    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:17.678    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 11.433405876159668 fps.
+07-13 05:18:17.688    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 12.58 ms.
+07-13 05:18:17.708    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 29.870363235473633 fps.
+07-13 05:18:17.708    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: 13.919515733718873 fps after 100 frames.
+07-13 05:18:17.718    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:17.768    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.566165924072266 fps.
+07-13 05:18:17.778    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:17.828    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.37572479248047 fps.
+07-13 05:18:17.838    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:17.888    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.925628662109375 fps.
+07-13 05:18:17.898    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:17.948    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.812938690185547 fps.
+07-13 05:18:17.958    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:18.018    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 15.247854232788086 fps.
+07-13 05:18:18.038    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 16.78 ms.
+07-13 05:18:18.068    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 18.799819946289063 fps.
+07-13 05:18:18.078    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:18.138    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 14.81371784210205 fps.
+07-13 05:18:18.138    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:18.138    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Average time for Lazy type conversion: 10.30 ms after 110 frames
+07-13 05:18:18.188    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 18.06390953063965 fps.
+07-13 05:18:18.198    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:18.258    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 15.065913200378418 fps.
+07-13 05:18:18.278    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 20.97 ms.
+07-13 05:18:18.308    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 19.162593841552734 fps.
+07-13 05:18:18.308    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: 14.17987127304077 fps after 110 frames.
+07-13 05:18:18.318    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:18.368    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 15.99206829071045 fps.
+07-13 05:18:18.378    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:18.428    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.718494415283203 fps.
+07-13 05:18:18.438    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:18.488    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.89931297302246 fps.
+07-13 05:18:18.498    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:18.548    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.425216674804688 fps.
+07-13 05:18:18.558    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:18.608    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.684185028076172 fps.
+07-13 05:18:18.618    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:18.668    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 17.040128707885742 fps.
+07-13 05:18:18.678    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:18.728    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.424945831298828 fps.
+07-13 05:18:18.738    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:18.738    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Average time for Lazy type conversion: 10.21 ms after 120 frames
+07-13 05:18:18.788    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 16.87336540222168 fps.
+07-13 05:18:18.798    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:18.858    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 14.687522888183594 fps.
+07-13 05:18:18.868    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:18.908    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 19.084697723388672 fps.
+07-13 05:18:18.908    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: 14.388464816411336 fps after 120 frames.
+07-13 05:18:18.918    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:19.008    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 10.526094436645508 fps.
+07-13 05:18:19.008    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 4.19 ms.
+07-13 05:18:19.088    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 12.360633850097656 fps.
+07-13 05:18:19.098    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:19.149    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 15.588950157165527 fps.
+07-13 05:18:19.158    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 8.39 ms.
+07-13 05:18:19.258    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 9.303796768188477 fps.
+07-13 05:18:19.268    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 4.19 ms.
+07-13 05:18:19.308    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 18.71397590637207 fps.
+07-13 05:18:19.318    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 10.49 ms.
+07-13 05:18:19.408    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 10.740099906921387 fps.
+07-13 05:18:19.418    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 12.58 ms.
+07-13 05:18:19.678    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 3.6661460399627686 fps.
+07-13 05:18:19.718    4791-4791/com.cabatuan.lazytypeconversion D/OpenGLRenderer﹕ Flushing caches (mode 0)
+07-13 05:18:19.918    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 150.99 ms.
+07-13 05:18:20.118    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Average time for Lazy type conversion: 11.21 ms after 130 frames
+07-13 05:18:20.118    4791-4791/com.cabatuan.lazytypeconversion D/OpenGLRenderer﹕ Flushing caches (mode 0)
+07-13 05:18:20.298    4791-4791/com.cabatuan.lazytypeconversion D/OpenGLRenderer﹕ Flushing caches (mode 1)
+07-13 05:18:20.358    4791-4791/com.cabatuan.lazytypeconversion W/IInputConnectionWrapper﹕ showStatusIcon on inactive InputConnection
+07-13 05:18:20.398    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 1.389062523841858 fps.
+07-13 05:18:20.458    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 48.23 ms.
+07-13 05:18:20.518    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 8.571331024169922 fps.
+07-13 05:18:20.548    4791-4791/com.cabatuan.lazytypeconversion I/LazyTypeConversion﹕ Lazy type conversion took 6.29 ms.
+07-13 05:18:20.698    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured: 5.507214546203613 fps.
+07-13 05:18:20.698    4791-4791/com.cabatuan.lazytypeconversion D/onPreviewFrame:﹕ Measured Average: 14.022946793299456 fps after 130 frames.

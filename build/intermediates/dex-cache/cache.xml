@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/GammaCorrection/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/cobalt/AndroidStudioProjects/GammaCorrection/app/build/intermediates/pre-dexed/debug/classes-e7b8123a9684e0043b5cd55713edf9f6590dc68d.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/LazyTypeConversion/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/cobalt/AndroidStudioProjects/LazyTypeConversion/app/build/intermediates/pre-dexed/debug/classes-6fa1cde22bc8a0f4b73ed08ed58f8bf990454dfe.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/cobalt/AndroidStudioProjects/GammaCorrection/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-8cc0e63cf9402c9ce3f4cccb6b99350936f413b8.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/LazyTypeConversion/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/cobalt/AndroidStudioProjects/LazyTypeConversion/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-d2cfba7364f30272c1d69e3dfbd8e7c5d8ff2c70.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/GammaCorrection/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/cobalt/AndroidStudioProjects/GammaCorrection/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-801d235baa034f16e11dd784fac7c42f456921a8.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/GammaCorrection/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/cobalt/AndroidStudioProjects/GammaCorrection/app/build/intermediates/pre-dexed/debug/classes-8116195eb90f850af72e8da6f488a8e2eb0eda12.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/LazyTypeConversion/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/cobalt/AndroidStudioProjects/LazyTypeConversion/app/build/intermediates/pre-dexed/debug/classes-de3b3d6e59c8452fce1f0f00c1718285aa424e93.jar" />
+    </item>
+
+</items>
