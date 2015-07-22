@@ -90,7 +90,7 @@ public class MainActivity extends Activity implements TextureView.SurfaceTexture
             oldnow = now;
 
             if(count%10 == 0){ // Log average every 10 frames
-                Log.d("onPreviewFrame: ", "Measured Average: " + total_fps/count + " fps after " + count +" frames." );
+                Log.d("onPreviewFrame: ", "AVERAGE: " + total_fps/count + " fps after " + count +" frames." );
             }
         }
 
